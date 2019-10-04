@@ -95,5 +95,15 @@ nav a:hover {
 }
 
 .top-content {
+    /* border-bottom: 1px dashed black; */
+}
+
+.about {
+    padding: 10px 0;
+    margin-bottom: 15px;
     border-bottom: 1px dashed black;
+}
+
+.about p {
+    padding-bottom: 15px;
 }
