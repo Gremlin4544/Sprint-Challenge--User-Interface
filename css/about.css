@@ -126,11 +126,12 @@ nav a:hover {
 
 .about-us img {
     padding: 20px 0;
+    width: auto;
+    
 }
 
 .strategy, .how, .places, .collab {
-    width: 44%;
-    padding: 10px 15px;
+    width: 43%;
     border-bottom: 1px dotted black;
 
 }
