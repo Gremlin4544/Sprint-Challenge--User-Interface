@@ -148,7 +148,7 @@ h2 {
 .middle-content .boxes .box1 {
     width: 12.5%;
     height: 100px;
-    background: rgb(0, 128, 128);
+    background: teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -158,7 +158,7 @@ h2 {
 .middle-content .boxes .box2 {
     width: 12.5%;
     height: 100px;
-    background: rgb(255, 215, 0);
+    background: gold;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -168,7 +168,7 @@ h2 {
 .middle-content .boxes .box3 {
     width: 12.5%;
     height: 100px;
-    background: rgb(95, 158, 160);
+    background: cadetblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -178,7 +178,7 @@ h2 {
 .middle-content .boxes .box4 {
     width: 12.5%;
     height: 100px;
-    background: rgb(255, 127, 80);
+    background: coral;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -188,7 +188,7 @@ h2 {
 .middle-content .boxes .box5 {
     width: 12.5%;
     height: 100px;
-    background: rgb(220, 20, 60);
+    background: crimson;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -198,7 +198,7 @@ h2 {
 .middle-content .boxes .box6 {
     width: 12.5%;
     height: 100px;
-    background:rgb(34, 139, 34);
+    background: forestgreen;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -208,7 +208,7 @@ h2 {
 .middle-content .boxes .box7 {
     width: 12.5%;
     height: 100px;
-    background: rgb(153, 50, 204);
+    background: darkorchid;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -218,7 +218,7 @@ h2 {
 .middle-content .boxes .box8 {
     width: 12.5%;
     height: 100px;
-    background: rgb(255, 105, 180);
+    background: hotpink;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -228,7 +228,7 @@ h2 {
 .middle-content .boxes .box9 {
     width: 12.5%;
     height: 100px;
-    background: rgb(75, 0, 130);
+    background: indigo;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -238,7 +238,7 @@ h2 {
 .middle-content .boxes .box10 {
     width: 12.5%;
     height: 100px;
-    background: rgb(30, 144, 255);
+    background: dodgerblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
