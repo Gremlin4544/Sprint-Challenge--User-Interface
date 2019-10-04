@@ -74,9 +74,8 @@ p {
 /*LOGO AND NAV LINKS STYLING ADDED HERE BY ALVE*/
 
 .header {
-    background-color: grey;
     display: flex;
-    padding-top: 15px;
+    padding-top: 25px;
 }
 
 .logo {
@@ -84,12 +83,12 @@ p {
 }
 
 nav {
-
+    margin-top: 25px;
 }
 
 nav a {
     text-decoration: none;
-    padding: 20px 32px 0 32px;
+    padding: 20px 32px 0 33px;
     color: black;
 }
 
@@ -98,7 +97,7 @@ nav a:hover {
 }
 
 .jumbo {
-    padding: 25px 0;
+    padding: 35px 0 25px 0;
 }
 
 .top-content {
@@ -123,6 +122,10 @@ nav a:hover {
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
+}
+
+h2 {
+    font-weight: 600;
 }
 
 .middle-content .boxes {
