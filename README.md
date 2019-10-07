@@ -34,15 +34,31 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic means "meaning". Using semantic HTML, will give your website content structure. When creating the HTML content of a website, you will use semantic tags that tell browsers how to handle or layout the content. Examples of semantic HTML tags are;
+"header", "footer", or "nav".
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Elements are displayed in blocks such as paragraphs or headers and will normally fill the entire width of a line. Elements will either sit above or below block elements but not on the left or on the right. 
+
+Inline elements can fit on the line within the same content such as;
+<img src="img/logo.png" alt="Great Idea! Company logo." style="width: 500px;"> The style section is an inline element.
 
 3. What are the 4 areas of the box model?
 
+The four areas are;
+1. Header, 2. Article, 3. Aside, 4. Footer.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+The align-items property works on the cross axis.
 
 5. Explain why git is valuable to a team of developers.
 
+Git is important for a team because individual members can work on the same project in parallel or independently by cloning the project. Once each member has completed their part of the project they can merge their work into the master file without overwriting team members work.
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+
 
 ## Project Set Up
 
