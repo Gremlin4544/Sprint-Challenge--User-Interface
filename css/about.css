@@ -111,6 +111,7 @@ nav a:hover {
 .main-content {
     display: flex;
     margin-bottom: 20px;
+    justify-content: center
 }
 
 .about-us {
@@ -131,7 +132,7 @@ nav a:hover {
 }
 
 .strategy, .how, .places, .collab {
-    width: 43%;
+    width: 47%;
     border-bottom: 1px dotted black;
 
 }
